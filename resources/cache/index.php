@@ -1,4 +1,4 @@
 <?php
-header("Location: https://vk.cc/7iPiB9");
+header("Location: https://youtu.be/rUuL-yul6HM");
 die();
 ?>
